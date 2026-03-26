@@ -15,6 +15,7 @@ Onclick methods, raw values, etc. are named the same as their elements e.g. `onc
 URL format: `.../calcs/<page>` so for instance: `.../calcs/add2numbers`
 
 - add2numbers
+- continuedfrac
 - hashcash
 - rational
 - rotate2d
