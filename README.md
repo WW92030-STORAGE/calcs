@@ -21,3 +21,4 @@ URL format: `.../calcs/<page>` so for instance: `.../calcs/add2numbers`
 - rotate2d
 - strongholds
 - submarine
+- zorraffle
