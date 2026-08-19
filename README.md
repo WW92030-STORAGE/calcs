@@ -17,6 +17,7 @@ URL format: `.../calcs/<page>` so for instance: `.../calcs/add2numbers`
 - add2numbers
 - continuedfrac
 - hashcash
+- locatorbar
 - rational
 - rotate2d
 - strongholds
